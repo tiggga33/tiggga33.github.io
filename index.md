@@ -10,3 +10,6 @@ Alain Fabien Maurice Marcel Delon is a prominent French actor and businessman. H
 * beauty - women loved him
 * roles as lover, commissar, gangster
 * nick name "Angel of Death"
+
+### Quote
+> Plein Soleil

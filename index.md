@@ -15,4 +15,4 @@ Alain Fabien Maurice Marcel Delon is a prominent French actor and businessman. H
 > Plein Soleil
 
 ### Foto
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Alain_Delon_1959_Rome.jpg" title="French actor Alain Delon at a table of a café in the street Via Veneto in Rome on october 5th 1959." alt="" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Alain_Delon_1959_Rome.jpg" title="French actor Alain Delon at a table of a cafe in the street Via Veneto in Rome on october 5th 1959." alt="" />
